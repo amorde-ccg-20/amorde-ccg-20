@@ -1,6 +1,6 @@
 # About Me
 
-Hello, World! 🌍👋 I'm Amna Saeed, a master of pixels and words in the enchanting realm of Artificial Intelligence.
+Hello, World! 🌍👋 I'm Amy, a master of pixels and words in the enchanting realm of Artificial Intelligence.
 
 ## My Playground: AI & Generative Art 🎨🤖
 
@@ -45,4 +45,4 @@ Feel free to peruse my projects, dive into my code, or simply say hi! I'm always
 
 Game on, and keep coding! 🎮💻💖
 
-Amna Saeed
+Amny
